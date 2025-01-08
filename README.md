@@ -22,11 +22,10 @@
    ```diff
    ...
    		home = {
-	--  username = "saya";
-  ++  username = "твой блядский ник";
-			homeDirectory = "/home/saya";
+   	username = "saya"; (НЕ ТАК)
+ 	username = "твой блядский ник"; (А ТАК)
+			homeDirectory = "/home/saya"; (И ЭТО ТОЖЕ НАХУЙ ПОМЕНЯЙ)
 			stateVersion = "25.05";
-  };
     ...
     ```
 
