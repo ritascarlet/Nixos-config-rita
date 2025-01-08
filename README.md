@@ -26,3 +26,9 @@ home-manager switch --flake .
 ```
 ЕСЛИ У ВАС ЧТО-ТО НЕ РАБОТАЕТ, МОЖЕТЕ НАПИСАТЬ ОБ ЭТОМ В ОШИБКАХ, А Я ПОШЛЮ ВАС НАХУЙ АХАХАХАХАХАХА
 
+
+God, how I love it vaxerski. Every night I dream of him laying me out on the table and fucking me. I would give myself to him for free, I would become his sex slave
+<p align="middle">
+  <img src="https://github.com/ritascarlet/Nixos-config-rita/blob/main/home-manager/hypr/4.jpg" width="410" align="middle"/>
+  <img src="https://github.com/ritascarlet/Nixos-config-rita/blob/main/home-manager/hypr/5.png" width="410" align="middle"/>
+</p>
