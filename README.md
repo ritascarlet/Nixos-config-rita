@@ -44,7 +44,7 @@ sudo cp -r nixos /etc
 cp home-manager ~/.config
 sudo nixos-rebuild switch
 sudo nixos-rebuild switch --flake /etc/nixos
-home-manager switch --flake .
+home-manager switch
 ```
 ЕСЛИ У ВАС ЧТО-ТО НЕ РАБОТАЕТ, МОЖЕТЕ НАПИСАТЬ ОБ ЭТОМ В ОШИБКАХ, А Я ПОШЛЮ ВАС НАХУЙ АХАХАХАХАХАХА
 
