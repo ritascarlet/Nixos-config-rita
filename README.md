@@ -15,6 +15,23 @@
 ТАК ЖЕ ЕСЛИ ВЫ КАК ТУПОРЫЛЫЙ ДОЛБАЕБ СКОПИРУЕТЕ hardware-configuration.nix КОТОРЫЙ У КАЖДОГО ИНДИВИДУАЛЕН ДЛЯ 
 ОБОРУДОВАНИЯ ДИСКОВ, ТО ВЫ БУДЕТЕ БИТЬСЯ ГОЛОВОЙ ОБ КЛАВИАТУРУ КАК ЕБАННЫЙ ДОЛБАЕБ
 
+ЛАДНО ПОХУЙ, ВОТ ВАМ ГАЙД НА ИСПРАВЛЕНИЕ ФАЙЛОВ (СПИЗДИЛ У [Ampersand] (https://github.com/Andrey0189) Адрей, я тебя люблю и обожаю<3)
+
+1. **Отредачить home.nix**:
+
+   ```diff
+   ...
+   		home = {
+	--  username = "saya";
+  ++  username = "твой блядский ник";
+			homeDirectory = "/home/saya";
+			stateVersion = "25.05";
+  };
+    ...
+    ```
+
+
+
 ```bash
 git clone https://github.com/ritascarlet/Nixos-config-rita.git
 cd Nixos-config-rita
