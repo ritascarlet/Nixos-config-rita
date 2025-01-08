@@ -24,11 +24,17 @@
    		home = {
    	username = "saya"; (НЕ ТАК)
  	username = "твой блядский ник"; (А ТАК)
-			homeDirectory = "/home/saya"; (И ЭТО ТОЖЕ НАХУЙ ПОМЕНЯЙ)
-			stateVersion = "25.05";
+	homeDirectory = "/home/saya"; (И ЭТО ТОЖЕ НАХУЙ ПОМЕНЯЙ)
+	stateVersion = "25.05"; (И БЛЯДСКУЮ ВЕРСИЮ ТОЖЕ ПОМЕНЯЙ НА СВОЮ)
     ...
     ```
+2. **А теперь разберемся с hardware-configuration.nix, который при установке nixos находится по пути etc/nixos/hardware-configuration.nix**
 
+```bash
+БЛЯТЬ СУКА БЕРЕШЬ, КОПИРУЕШЬ СВОЙ БЛЯДСКИЙ hardware-configuration.nix ТУДА ГДЕ ЕГО НИКТО НЕ УДАЛИТ, А ПОСЛЕ
+КОПИРОВАНИЯ МОИХ РАЗДРОЧЕННЫХ ЕБАННЫХ ФАЙЛОВ УДАЛЯЕШЬ МОЙ БЛЯДСКИЙ hardware-configuration.nix, И ЗАКИДЫВАЕШЬ СВОЙ   
+
+```
 
 
 ```bash
