@@ -4,6 +4,7 @@
   <img src="https://github.com/ritascarlet/Nixos-config-rita/blob/main/1.png" width="410" align="middle"/>
   <img src="https://github.com/ritascarlet/Nixos-config-rita/blob/main/2.png" width="410" align="middle"/>
   <img src="https://github.com/ritascarlet/Nixos-config-rita/blob/main/3.png" width="410" align="middle"/>
+  <img src="https://github.com/ritascarlet/Nixos-config-rita/blob/main/PXL_20250114_113259467.MP.jpg" width="410" align="middle"/>
 </p>
 
 # !ВНИМАНИЕ! ВЫ МОЖЕТЕ ИСПЫТАТЬ РВОТНЫЙ РЕФЛЕКС И РВОТНЫЕ ПОЗЫВЫ ПРИ ПРОСМОТРЕ И ИСПОЛЬЗОВАНИИ ФАЙЛОВ!
